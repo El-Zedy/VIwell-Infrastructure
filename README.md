@@ -1,5 +1,5 @@
 # DevOps Assessment Infrastructure :department_store:
-VIwell-Infrastructure is a repository containing the infrastructure-as-code (IaC) using Terraform to apply assessment infrastructure
+VIwell-Infrastructure is a repository containing the infrastructure-as-code (IaC) using `Terraform to` apply assessment infrastructure
 
 This infrastructure have maninly have 5 modules:
 
