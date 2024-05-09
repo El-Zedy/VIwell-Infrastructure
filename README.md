@@ -3,11 +3,11 @@ VIwell-Infrastructure is a repository containing the infrastructure-as-code (IaC
 
 This infrastructure have maninly have 5 modules:
 
-1- EKS Cluster itself
-2- EKS Nodegroup
-3- EKS Addons
-4- ECR
-5- Network
+1. EKS Cluster itself
+2. EKS Nodegroup
+3. EKS Addons
+4. ECR
+5. Network
 
 ### To apply it:
     terraform init
